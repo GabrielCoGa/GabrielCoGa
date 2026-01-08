@@ -8,8 +8,8 @@
 - 🔭 List
 - 🌱 File with format csv
 - 👯 File with format JSON
-- 🤔 SQLlite
-- 💬 Mysql ...https://github.com/GabrielCoGa/DatabaseSqlite/blob/main/README.md
+- 🤔 SQLlite ...https://github.com/GabrielCoGa/DatabaseSqlite/blob/main/README.md
+- 💬 Mysql 
   
 - 📫 
 - 😄 
