@@ -5,10 +5,10 @@
 
 ### Here are some repositoryes about databases evolution:
 
-- 🔭 List ...https://github.com/GabrielCoGa/DatabaseProyect/DatabaseList/blob/main/README.md
-- 🌱 File with format csv ...https://github.com/GabrielCoGa/DatabaseProyect/DatabaseFile/blob/main/README.md
-- 👯 File with format JSON ...https://github.com/GabrielCoGa/DatabaseProyect/DatabaseJSON/blob/main/README.md
-- 🤔 SQLlite ...https://github.com/GabrielCoGa/DatabaseProyect/DatabaseSqlite/blob/main/README.md
+- 🔭 List ...https://github.com/GabrielCoGa/DatabaseProyect/tree/main/DatabaseList#readme
+- 🌱 File with format csv ...https://github.com/GabrielCoGa/DatabaseProyect/blob/main/DatabaseFile/README.md
+- 👯 File with format JSON ...https://github.com/GabrielCoGa/DatabaseProyect/blob/main/DatabaseJSON/README.md
+- 🤔 SQLlite ...https://github.com/GabrielCoGa/DatabaseProyect/blob/main/DatabaseSqlite/README.md
 - 💬 Mysql 
   
 - 📫 
